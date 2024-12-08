@@ -9,14 +9,13 @@
 - Exclusão Mútua com Bloqueio de Processos
 -  📚 Materiais úteis:
 
-# 🗂️ Unidade 2: Gerência de Memória
+### 🗂️ Unidade 2: Gerência de Memória
 - Princípios da Gerência de Memória
 - Paginação
 - Algoritmos de Reposição de Páginas
-- Buffer
 - 📚 Materiais úteis:
 
-# 🗂️ Unidade 3: Sistemas de Arquivos e Entrada/Saída
+### 🗂️ Unidade 3: Sistemas de Arquivos e Entrada/Saída
 - Princípios da Gerência de Entrada/Saída (E/S)
 - Drivers de Disco
 - Algoritmos de Escalonamento de Requisições de I/O
@@ -24,10 +23,9 @@
 - Organização de Sistemas de Arquivos em Disco: FAT e i-nodes
 - Estruturas de Dados do Sistema de Arquivos Mantidas em Memória
 - Segurança e Confiabilidade de Sistemas de Arquivos
-- Buffer
 - 📚 Materiais úteis:
 
-# 📚 Referências Bibliográficas
+### 📚 Referências Bibliográficas
 - Cox, Russ, M. Frans Kaashoek, and Robert Morris. Xv6, a simple Unix-like teaching operating system.
 - Arpaci-Dusseau, Remzi H., and Andrea C. Arpaci-Dusseau. Operating Systems: Three easy pieces. Boston: Arpaci-Dusseau Books LLC, 2018.
 - Thomas Anderson, Michael Dahlin. Operating Systems: Principles and Practice. Recursive Books; 2ª ed.
