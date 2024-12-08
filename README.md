@@ -20,7 +20,8 @@
 - Princípios da Gerência de Memória
 - Paginação
 - Algoritmos de Reposição de Páginas
-- 📚 Materiais úteis:
+
+📚 Materiais úteis:
 
 ### 🗂️ Unidade 3: Sistemas de Arquivos e Entrada/Saída
 - Princípios da Gerência de Entrada/Saída (E/S)
@@ -30,7 +31,8 @@
 - Organização de Sistemas de Arquivos em Disco: FAT e i-nodes
 - Estruturas de Dados do Sistema de Arquivos Mantidas em Memória
 - Segurança e Confiabilidade de Sistemas de Arquivos
-- 📚 Materiais úteis:
+
+📚 Materiais úteis:
 
 ### 📚 Referências Bibliográficas
 - Cox, Russ, M. Frans Kaashoek, and Robert Morris. Xv6, a simple Unix-like teaching operating system.
