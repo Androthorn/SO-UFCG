@@ -26,6 +26,5 @@
 ### - Organização de sistemas de arquivos em disco: FAT e i-nodes
 ### - Estruturas de dados do sistema de arquivos mantidas em memória
 ### - Segurança e confiabilidade de sistemas de arquivos
-  -
 ### - Buffer
 ### - Materiais úteis:
