@@ -14,7 +14,7 @@
 - Paginação
 - Algoritmos de Reposição de Páginas
 - Buffer
-📚 Materiais úteis:
+- 📚 Materiais úteis:
 
 # 🗂️ Unidade 3: Sistemas de Arquivos e Entrada/Saída
 - Princípios da Gerência de Entrada/Saída (E/S)
