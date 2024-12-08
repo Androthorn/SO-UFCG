@@ -7,7 +7,14 @@
 - Criação de Processos
 - Comunicação entre Processos (IPC) através de Memória Compartilhada
 - Exclusão Mútua com Bloqueio de Processos
--  📚 Materiais úteis:
+
+📚 Materiais úteis:
+- [Lista 1](https://github.com/Androthorn/SO-UFCG/blob/main/Unidade_1/LISTA%201%20Sistemas%20Operacionais.pdf)
+- [Anotações André](https://github.com/Androthorn/SO-UFCG/blob/main/Unidade_1/Estudos_U1.pdf)
+- [Round robin scheduling](https://www.studytonight.com/operating-system/round-robin-scheduling)
+- [Neso Academy explicando semáforos](https://www.youtube.com/watch?v=XDIOC2EY5JE)
+- [Curso de SO da UNIVESP](https://www.youtube.com/watch?v=Rl6HhDvW984&list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw&index=1)
+
 
 ### 🗂️ Unidade 2: Gerência de Memória
 - Princípios da Gerência de Memória
