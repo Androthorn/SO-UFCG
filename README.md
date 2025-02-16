@@ -22,7 +22,11 @@
 - Paginação
 - Algoritmos de Reposição de Páginas
 
-📚 Materiais úteis:
+📚 Materiais úteis: 
+- [Site do three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters) Em especial para esta unidade, analisem a segunda coluna laranja.
+- [Seção Memory Management do g4g](https://www.geeksforgeeks.org/operating-systems/) Amplia e/ou esclarece alguns assuntos dados em aula.
+- [Excelente vídeo sobre paginação, segmentação e memória virtual](https://www.youtube.com/watch?v=p9yZNLeOj4s).
+- [notas de aula de Gabriele Calafange](https://github.com/Androthorn/SO-UFCG/blob/main/Unidade_2/so%20u2%20parte1_Gabriele_Calafange.pdf)
 
 ### 🗂️ Unidade 3: Sistemas de Arquivos e Entrada/Saída
 - Princípios da Gerência de Entrada/Saída (E/S)
@@ -34,6 +38,7 @@
 - Segurança e Confiabilidade de Sistemas de Arquivos
 
 📚 Materiais úteis:
+- [Lista de possíveis projetos 24.2](https://docs.google.com/document/d/15l6xH_kXg6Ob-f-B82-JOGFaTHIfYwlkDGqVn13NzYs/edit?tab=t.0#heading=h.5ofsctjglv2j)
 
 ### 📚 Referências Bibliográficas
 - Cox, Russ, M. Frans Kaashoek, and Robert Morris. Xv6, a simple Unix-like teaching operating system.
